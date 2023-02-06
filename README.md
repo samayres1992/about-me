@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Sam</h1>
-<h3 align="center">I'm a Director of Tech from the UK living in NYC.</h3>
+<h1 align="center">Hey 👋, I'm Sam Ayres</h1>
+<h3 align="center">Director of Tech from the UK living in NYC.</h3>
 
 - 👨‍💻 All of my projects are available at [https://5am.dev](https://5am.dev)
 

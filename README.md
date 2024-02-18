@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my personal projects are available at [https://5am.dev](https://5am.dev)
 
-- 💬 Ask me about **React, Symfony & Drupal**
+- 💬 Ask me about **Drupal, React & Symfony**
 
 - 📫 How to reach me **hello@5am.dev**
 
